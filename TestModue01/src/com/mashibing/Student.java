@@ -7,4 +7,7 @@ package com.mashibing;
  * @version 21
  */
 public class Student {
+    private int age;
+    private String name;
+
 }
